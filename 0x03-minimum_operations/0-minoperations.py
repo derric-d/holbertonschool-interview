@@ -1,8 +1,7 @@
-#!/usr/bin/python2
+#!/usr/bin/python3
 """
 function to get min steps needed to #n "h" characters
 with just copy and paste
-// = python floored division
 """
 
 
